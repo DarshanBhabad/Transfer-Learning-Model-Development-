@@ -10,7 +10,7 @@ This project focuses on developing a deep learning framework for multi-class che
 
 ## Dataset Information
 The project utilizes the **Coronahack Chest X-Ray Dataset** sourced from Kaggle.
-* **Source:** Kaggle Dataset Link.
+* **Source:** Kaggle Dataset Link: [Coronahack Chest X-Ray Dataset](https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset)
 * **Classes:** 3 (COVID, PNEUMONIA, NORMAL).
 * **Organization:** The dataset was automatically reorganized into class-specific folders using filename keywords (virus, bacteria, normal) to comply with Keras's `flow_from_directory()` requirements.
 
